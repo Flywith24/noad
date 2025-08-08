@@ -1,0 +1,4 @@
+#!name=Flywith24
+#!desc=去广告
+[URL Rewrite]
+^http:\/\/.+\/amdc\/mobileDispatch _ reject
