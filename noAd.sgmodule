@@ -2,4 +2,4 @@
 #!desc=去广告
 #!category=去广告
 [URL Rewrite]
-^http?:\/\/.+\/amdc\/mobileDispatch reject
+^http:\/\/.+\/amdc\/mobileDispatch.* _ reject
