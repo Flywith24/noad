@@ -3,3 +3,4 @@
 #!category=去广告
 [URL Rewrite]
 ^http:\/\/.+\/amdc\/mobileDispatch.* _ reject
+^http[s].*amdc\/mobileDispatch.* _ reject
