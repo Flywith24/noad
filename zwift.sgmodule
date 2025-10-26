@@ -1,0 +1,7 @@
+#!name=Custom Host Mapping
+#!desc=Map specific domains to fixed IPs
+#!system=ios
+
+[Host]
+us-or-rly101.zwift.com = 192.168.31.199
+secure.zwift.com = 192.168.31.199
